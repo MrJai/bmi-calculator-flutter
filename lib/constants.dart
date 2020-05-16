@@ -5,6 +5,7 @@ const kActiveCardColor = Color(0xFF1D1E33);
 const kInactiveCardColor = Color(0xFF111328);
 const kBottomContainerColor = Color(0xFFEB1555);
 const kOverlayColorAlpha = 0x29;
+const kRoundedButtonFillColor = Color(0xFF4C4F5E);
 
 const kInActiveTrackColor = Color(0xFF8D8E98);
 
